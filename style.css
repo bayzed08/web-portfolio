@@ -55,3 +55,9 @@ section {
     color: aliceblue;
     font-weight: 800;
 }
+
+.single-experience {
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 15px;
+    height: 70%;
+}
